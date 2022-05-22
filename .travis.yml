@@ -7,7 +7,7 @@ script:
   docker iamges  akli-lachi/node2 
 
 befere_deploy:
-  - docker login -u  <kali1803> -p <Celine2017>
+  - docker login -u  <kali1803> -p <password>
 
 deploy:
   provider: script
