@@ -11,6 +11,6 @@ befere_deploy:
 
 deploy:
   provider: script
-  script : docker push <kali1803/nore-test>
+  script : docker push <kali1803/node-test>
   on:
     branch: master
